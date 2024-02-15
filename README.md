@@ -1,1 +1,1 @@
-# gridgainIgnitethinclient
+# gridgainIgnitethickclient
