@@ -1,0 +1,8 @@
+com\msn\settlementmodule\settlementmodule\controllers\TransactionController.class
+com\msn\settlementmodule\settlementmodule\entities\PACS008.class
+com\msn\settlementmodule\settlementmodule\entities\MasterAccountEntity.class
+com\msn\settlementmodule\settlementmodule\AppConfiguration.class
+com\msn\settlementmodule\settlementmodule\entities\TransactionEntity.class
+com\msn\settlementmodule\settlementmodule\entities\PACS002.class
+com\msn\settlementmodule\settlementmodule\SettlementmoduleApplication.class
+com\msn\settlementmodule\settlementmodule\utils\SttlProcess.class
